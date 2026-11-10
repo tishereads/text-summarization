@@ -1,0 +1,10 @@
+torch>=2.0
+transformers>=4.35
+datasets>=2.15
+accelerate>=0.25
+evaluate>=0.4
+rouge-score>=0.1
+nltk>=3.8
+sentencepiece>=0.1.99
+protobuf>=3.20
+streamlit>=1.30
